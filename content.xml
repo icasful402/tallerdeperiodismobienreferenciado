@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260506233237NA8F3R</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050623323742KD2N</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Taller de periodismo escolar: comunicar, analizar y crear</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto de expresión escrita y pensamiento crítico a través de la creación de contenidos periodísticos en 4º de ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Irene Cascales Fulgencio</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso basado en metodologías activas que sitúa al alumnado en el papel de periodistas para investigar, redactar, contrastar fuentes y comunicar información de forma rigurosa. Se potencia la autonomía, la creatividad y la competencia digital mediante el uso de herramientas TIC aplicadas a la creación de contenidos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778094358125</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moufg7nb-6b900clrk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Taller de periodismo escolar: comunicar, analizar y crear</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Taller de periodismo escolar: comunicar, analizar y crear</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Taller de periodismo escolar: comunicar, analizar y crear</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Taller de periodismo escolar: comunicar, analizar y crear</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nb-6b900clrk</odePageId>
+      <odeBlockId>20260505140044CXMMAN</odeBlockId>
+      <blockName>Taller de periodismo escolar: comunicar, analizar y crear</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nb-6b900clrk</odePageId>
+          <odeBlockId>20260505140044CXMMAN</odeBlockId>
+          <odeIdeviceId>202605042224509858TP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><h3 style="text-align: center;"><span style="color: #3598db;">Taller de periodismo escolar: comunicar, analizar y crear es una obra creada por Irene Cascales Fulgencio con una Licencia CC-BY-SA-4.0</span></h3><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605042224509858TP","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\"><span style=\"color: #3598db;\">Taller de periodismo escolar: comunicar, analizar y crear es una obra creada por Irene Cascales Fulgencio con una Licencia CC-BY-SA-4.0</span></h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nb-6b900clrk</odePageId>
+      <odeBlockId>20260505140044TWWDJE</odeBlockId>
+      <blockName>Bienvenida</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nb-6b900clrk</odePageId>
+          <odeBlockId>20260505140044TWWDJE</odeBlockId>
+          <odeIdeviceId>202605051336545048U1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 960px;">
+<div class="figcaption header"><strong>Blue Microphones Dragonfly</strong></div>
+<img width="960" alt="Blue Microphones Dragonfly" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue_Microphones_Dragonfly.jpg/960px-Blue_Microphones_Dragonfly.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" />
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Blue_Microphones_Dragonfly.jpg" class="author" target="_blank" rel="noopener">Shunichi Kouroki</a>. <a href="https://commons.wikimedia.org/wiki/File:Blue_Microphones_Dragonfly.jpg" class="title" target="_blank" rel="noopener"><em>Imagen disponible en Wikimedia Commons</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<h2 style="text-align: center;">¡Bienvenidas y bienvenidos al apasionante mundo del periodismo!</h2>
+<p><br />Hoy comenzamos un viaje en el que aprenderemos a mirar la realidad con ojos críticos, a dar valor a las palabras y a descubrir cómo la comunicación puede informar, emocionar y transformar nuestro entorno.</p>
+<p>A lo largo de esta aventura exploraremos distintos estilos de escritura, aprenderemos a diferenciar entre textos expositivos y argumentativos, analizaremos la importancia de la objetividad y la subjetividad en los medios y desarrollaremos nuestra capacidad para interpretar la información con criterio propio.</p>
+<p>Este será también un espacio para escuchar todas las voces, compartir ideas, trabajar en equipo y construir mensajes que reflejen una sociedad más justa, diversa e igualitaria.</p>
+<p>Preparad vuestra curiosidad, vuestra creatividad y vuestras ganas de comunicar, porque… a partir de ahora, la noticia también puede llevar vuestra firma.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605051336545048U1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 960px;\">\n<div class=\"figcaption header\"><strong>Blue Microphones Dragonfly</strong></div>\n<img width=\"960\" alt=\"Blue Microphones Dragonfly\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue_Microphones_Dragonfly.jpg/960px-Blue_Microphones_Dragonfly.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail\" />\n<figcaption class=\"figcaption\"><a href=\"https://commons.wikimedia.org/wiki/File:Blue_Microphones_Dragonfly.jpg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Shunichi Kouroki</a>. <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Microphones_Dragonfly.jpg\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Imagen disponible en Wikimedia Commons</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<h2 style=\"text-align: center;\">¡Bienvenidas y bienvenidos al apasionante mundo del periodismo!</h2>\n<p><br />Hoy comenzamos un viaje en el que aprenderemos a mirar la realidad con ojos críticos, a dar valor a las palabras y a descubrir cómo la comunicación puede informar, emocionar y transformar nuestro entorno.</p>\n<p>A lo largo de esta aventura exploraremos distintos estilos de escritura, aprenderemos a diferenciar entre textos expositivos y argumentativos, analizaremos la importancia de la objetividad y la subjetividad en los medios y desarrollaremos nuestra capacidad para interpretar la información con criterio propio.</p>\n<p>Este será también un espacio para escuchar todas las voces, compartir ideas, trabajar en equipo y construir mensajes que reflejen una sociedad más justa, diversa e igualitaria.</p>\n<p>Preparad vuestra curiosidad, vuestra creatividad y vuestras ganas de comunicar, porque… a partir de ahora, la noticia también puede llevar vuestra firma.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7nf-a76jwg1rf</odePageId>
+  <odeParentPageId>page-moufg7nb-6b900clrk</odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nf-a76jwg1rf</odePageId>
+      <odeBlockId>20260505140044SARDCJ</odeBlockId>
+      <blockName>¿En qué consiste este proyecto?</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nf-a76jwg1rf</odePageId>
+          <odeBlockId>20260505140044SARDCJ</odeBlockId>
+          <odeIdeviceId>20260504222909140TH3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 960px;">
+<div class="figcaption header"><strong>Pentax Program A</strong></div>
+<img width="960" alt="Pentax Program A" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pentax_Program_A.jpg/960px-Pentax_Program_A.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" />
+<figcaption class="figcaption"><a href="https://www.flickr.com/people/95821201@N00" class="author" target="_blank" rel="noopener">Bart Kuik</a>. <a href="https://commons.wikimedia.org/wiki/File:Pentax_Program_A.jpg" class="title" target="_blank" rel="noopener"><em>Imagen disponible en Wikimedia Commons</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: left;">En este proyecto os convertiréis en periodistas por unas semanas. Aprenderéis a observar la realidad con mirada crítica, a distinguir hechos de opiniones y a comunicar ideas de forma clara, rigurosa y creativa. A través de distintas actividades prácticas analizaréis noticias reales, debatiréis sobre temas de actualidad, escucharéis formatos periodísticos, redactaréis vuestras propias noticias y prepararéis entrevistas como si formarais parte de una auténtica redacción.</p>
+<p>Para ello utilizaremos herramientas digitales como Mentimeter para recoger ideas y opiniones, Google Docs para escribir colaborativamente, Canva y Genially para crear contenidos visuales y Vocaroo o Spreaker para grabar entrevistas y pequeñas piezas periodísticas.</p>
+<p>Trabajaremos de forma cooperativa, compartiremos ideas, construiremos mensajes propios y aprenderemos a desenvolvernos en el mundo de la información con responsabilidad, creatividad y pensamiento crítico.</p>
+<p>Al terminar el proyecto y casi sin daros cuenta, habréis creado noticias, artículos de opinión y entrevistas periodísticas utilizando diferentes formatos digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260504222909140TH3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 960px;\">\n<div class=\"figcaption header\"><strong>Pentax Program A</strong></div>\n<img width=\"960\" alt=\"Pentax Program A\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pentax_Program_A.jpg/960px-Pentax_Program_A.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.flickr.com/people/95821201@N00\" class=\"author\" target=\"_blank\" rel=\"noopener\">Bart Kuik</a>. <a href=\"https://commons.wikimedia.org/wiki/File:Pentax_Program_A.jpg\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Imagen disponible en Wikimedia Commons</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: left;\">En este proyecto os convertiréis en periodistas por unas semanas. Aprenderéis a observar la realidad con mirada crítica, a distinguir hechos de opiniones y a comunicar ideas de forma clara, rigurosa y creativa. A través de distintas actividades prácticas analizaréis noticias reales, debatiréis sobre temas de actualidad, escucharéis formatos periodísticos, redactaréis vuestras propias noticias y prepararéis entrevistas como si formarais parte de una auténtica redacción.</p>\n<p>Para ello utilizaremos herramientas digitales como Mentimeter para recoger ideas y opiniones, Google Docs para escribir colaborativamente, Canva y Genially para crear contenidos visuales y Vocaroo o Spreaker para grabar entrevistas y pequeñas piezas periodísticas.</p>\n<p>Trabajaremos de forma cooperativa, compartiremos ideas, construiremos mensajes propios y aprenderemos a desenvolvernos en el mundo de la información con responsabilidad, creatividad y pensamiento crítico.</p>\n<p>Al terminar el proyecto y casi sin daros cuenta, habréis creado noticias, artículos de opinión y entrevistas periodísticas utilizando diferentes formatos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nf-a76jwg1rf</odePageId>
+      <odeBlockId>20260505140044ADZHXS</odeBlockId>
+      <blockName>Tarea 2.1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nf-a76jwg1rf</odePageId>
+          <odeBlockId>20260505140044ADZHXS</odeBlockId>
+          <odeIdeviceId>20260505134034858SDA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="max-width: 100%; margin: 0 auto; text-align: center;">
+<p style="font-size: 20px; font-weight: bold; color: #2c3e50; background: #f5f7fa; padding: 12px; border-radius: 10px; margin-bottom: 15px;">📄 Consulta el documento</p>
+<iframe width="100%" height="700" style="border: 1px solid #dcdcdc; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" src="https://drive.google.com/file/d/1Z76XwVgfBSl9aeGJvUQBhRTA5PYiMF344iPbCeG0JqU/preview" allow="autoplay">
+  </iframe>
+<p style="margin-top: 15px;"><a href="https://drive.google.com/file/d/1Z76XwVgfBSl9aeGJvUQBhRTA5PYiMF344iPbCeG0JqU/view" target="_blank" style="display: inline-block; background: #1a73e8; color: white; padding: 12px 22px; border-radius: 8px; text-decoration: none; font-weight: bold;" rel="noopener"> 🔗 Abrir en pantalla completa </a></p>
+</div>
+<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505134034858SDA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"max-width: 100%; margin: 0 auto; text-align: center;\">\n<p style=\"font-size: 20px; font-weight: bold; color: #2c3e50; background: #f5f7fa; padding: 12px; border-radius: 10px; margin-bottom: 15px;\">📄 Consulta el documento</p>\n<iframe width=\"100%\" height=\"700\" style=\"border: 1px solid #dcdcdc; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);\" src=\"https://drive.google.com/file/d/1Z76XwVgfBSl9aeGJvUQBhRTA5PYiMF344iPbCeG0JqU/preview\" allow=\"autoplay\">\n  </iframe>\n<p style=\"margin-top: 15px;\"><a href=\"https://drive.google.com/file/d/1Z76XwVgfBSl9aeGJvUQBhRTA5PYiMF344iPbCeG0JqU/view\" target=\"_blank\" style=\"display: inline-block; background: #1a73e8; color: white; padding: 12px 22px; border-radius: 8px; text-decoration: none; font-weight: bold;\" rel=\"noopener\"> 🔗 Abrir en pantalla completa </a></p>\n</div>\n<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7ng-b5ly3dj9r</odePageId>
+  <odeParentPageId>page-moufg7nb-6b900clrk</odeParentPageId>
+  <pageName>¿Qué vamos a hacer?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a hacer?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a hacer?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7ng-b5ly3dj9r</odePageId>
+      <odeBlockId>20260505140044YLUJNC</odeBlockId>
+      <blockName>Mapa mental</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7ng-b5ly3dj9r</odePageId>
+          <odeBlockId>20260505140044YLUJNC</odeBlockId>
+          <odeIdeviceId>20260505135048768Y6B</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de este proyecto recorreremos distintas etapas que nos ayudarán a comprender cómo funciona el mundo del periodismo y cómo se construye la información que llega hasta nosotros cada día. Partiremos de vuestras ideas previas, aprenderemos a analizar noticias con mirada crítica, exploraremos distintos formatos comunicativos y, poco a poco, os convertiréis en protagonistas de vuestra propia redacción periodística. En este camino trabajaremos en equipo, debatiremos, investigaremos, escribiremos, diseñaremos contenidos digitales y pondremos en práctica vuestra creatividad y capacidad de comunicación. Cada fase del proyecto os permitirá desarrollar nuevas habilidades hasta llegar al producto final: crear vuestros propios contenidos periodísticos con rigor, creatividad y voz propia.</p>
+<p>A continuación podéis ver el itinerario de aprendizaje que seguiremos durante esta aventura periodística.</p>
+<p><iframe width="853" height="480" src="https://embed.coggle.it/diagram/afOm62K2ihu0msGf/5hi0VVLvtth7z8Eder9s_cwFzNVvjEhNBQw0sW7F_nw" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;">Ahora toca mirar la realidad con otros ojos… y empezar a contarla.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505135048768Y6B","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de este proyecto recorreremos distintas etapas que nos ayudarán a comprender cómo funciona el mundo del periodismo y cómo se construye la información que llega hasta nosotros cada día. Partiremos de vuestras ideas previas, aprenderemos a analizar noticias con mirada crítica, exploraremos distintos formatos comunicativos y, poco a poco, os convertiréis en protagonistas de vuestra propia redacción periodística. En este camino trabajaremos en equipo, debatiremos, investigaremos, escribiremos, diseñaremos contenidos digitales y pondremos en práctica vuestra creatividad y capacidad de comunicación. Cada fase del proyecto os permitirá desarrollar nuevas habilidades hasta llegar al producto final: crear vuestros propios contenidos periodísticos con rigor, creatividad y voz propia.</p>\n<p>A continuación podéis ver el itinerario de aprendizaje que seguiremos durante esta aventura periodística.</p>\n<p><iframe width=\"853\" height=\"480\" src=\"https://embed.coggle.it/diagram/afOm62K2ihu0msGf/5hi0VVLvtth7z8Eder9s_cwFzNVvjEhNBQw0sW7F_nw\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\">Ahora toca mirar la realidad con otros ojos… y empezar a contarla.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7ng-c4irjdymy</odePageId>
+  <odeParentPageId>page-moufg7nb-6b900clrk</odeParentPageId>
+  <pageName>Herramientas que vamos a utilizar</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas que vamos a utilizar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas que vamos a utilizar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7ng-c4irjdymy</odePageId>
+      <odeBlockId>20260505140044BHKUKI</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7ng-c4irjdymy</odePageId>
+          <odeBlockId>20260505140044BHKUKI</odeBlockId>
+          <odeIdeviceId>202605051357435827BB</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de este proyecto utilizaremos distintas herramientas digitales que nos ayudarán a investigar, organizar ideas, escribir de forma colaborativa, diseñar contenidos creativos y grabar nuestras propias producciones periodísticas. Cada una tendrá una función concreta dentro del proceso de aprendizaje y nos permitirá comunicarnos de forma más eficaz, creativa y profesional.</p>
+<div class="exe-fx exe-tabs">
+<h2>Mentimeter</h2>
+<p>Lo utilizaremos al inicio del proyecto para recoger ideas previas, lanzar preguntas al grupo y generar debates sobre la información, los medios de comunicación y la influencia de las fake news.</p>
+<h2>Google Docs</h2>
+<p>Nos servirá para redactar noticias, elaborar artículos de opinión y trabajar textos de manera colaborativa, compartiendo ideas y revisando en equipo nuestras producciones.</p>
+<h2>Canva</h2>
+<p>Con esta herramienta diseñaremos infografías, portadas, carteles o pequeños recursos visuales que darán forma y atractivo a nuestros contenidos periodísticos.</p>
+<h2>Genially</h2>
+<p>La utilizaremos para crear presentaciones interactivas, contenidos visuales dinámicos y formatos digitales que hagan nuestra información más atractiva para el público.</p>
+<h2>Vocaroo</h2>
+<p>Nos permitirán grabar entrevistas, podcasts o boletines informativos, trabajando la expresión oral, la entonación y la comunicación audiovisual.</p>
+<h2>Google Drive</h2>
+<p>Será nuestro espacio común para compartir materiales, organizar recursos y tener siempre accesible el trabajo realizado durante el proyecto.</p>
+</div>
+<div style="background: #fff8e8; border: 2px solid #f1d27a; padding: 22px; border-radius: 12px; margin: 30px 0; font-style: italic; font-size: 1.08em; color: #5a4a1f; box-shadow: 0 3px 10px rgba(0,0,0,0.06);">🖋️ <strong>Recordad:</strong> las herramientas son solo el medio; lo importante será vuestra mirada, vuestra voz y vuestra capacidad para comunicar con rigor, creatividad y sensibilidad.</div>
+<p><a title="Jørgen Stamp, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tools_-_Digital_Preservation.png"><img width="0" alt="Tools - Digital Preservation" src="https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png" /></a></p>
+<figure class="exe-figure position-center" style="width: 560px;">
+<div class="figcaption header"><strong>Tools Digital Preservation</strong></div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Tools_-_Digital_Preservation.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original" width="560" height="448" alt="" />
+<figcaption class="figcaption"><a href="https://www.wikidata.org/wiki/Q55754361" class="author" target="_blank" rel="noopener">Jørgen Stamp</a>. <a href="https://commons.wikimedia.org/wiki/File:Tools_-_Digital_Preservation.png" class="title" target="_blank" rel="noopener"><em>Imagen disponible en Wikimedia Commons</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605051357435827BB","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de este proyecto utilizaremos distintas herramientas digitales que nos ayudarán a investigar, organizar ideas, escribir de forma colaborativa, diseñar contenidos creativos y grabar nuestras propias producciones periodísticas. Cada una tendrá una función concreta dentro del proceso de aprendizaje y nos permitirá comunicarnos de forma más eficaz, creativa y profesional.</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Mentimeter</h2>\n<p>Lo utilizaremos al inicio del proyecto para recoger ideas previas, lanzar preguntas al grupo y generar debates sobre la información, los medios de comunicación y la influencia de las fake news.</p>\n<h2>Google Docs</h2>\n<p>Nos servirá para redactar noticias, elaborar artículos de opinión y trabajar textos de manera colaborativa, compartiendo ideas y revisando en equipo nuestras producciones.</p>\n<h2>Canva</h2>\n<p>Con esta herramienta diseñaremos infografías, portadas, carteles o pequeños recursos visuales que darán forma y atractivo a nuestros contenidos periodísticos.</p>\n<h2>Genially</h2>\n<p>La utilizaremos para crear presentaciones interactivas, contenidos visuales dinámicos y formatos digitales que hagan nuestra información más atractiva para el público.</p>\n<h2>Vocaroo</h2>\n<p>Nos permitirán grabar entrevistas, podcasts o boletines informativos, trabajando la expresión oral, la entonación y la comunicación audiovisual.</p>\n<h2>Google Drive</h2>\n<p>Será nuestro espacio común para compartir materiales, organizar recursos y tener siempre accesible el trabajo realizado durante el proyecto.</p>\n</div>\n<div style=\"background: #fff8e8; border: 2px solid #f1d27a; padding: 22px; border-radius: 12px; margin: 30px 0; font-style: italic; font-size: 1.08em; color: #5a4a1f; box-shadow: 0 3px 10px rgba(0,0,0,0.06);\">🖋️ <strong>Recordad:</strong> las herramientas son solo el medio; lo importante será vuestra mirada, vuestra voz y vuestra capacidad para comunicar con rigor, creatividad y sensibilidad.</div>\n<p><a title=\"Jørgen Stamp, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons\" href=\"https://commons.wikimedia.org/wiki/File:Tools_-_Digital_Preservation.png\"><img width=\"0\" alt=\"Tools - Digital Preservation\" src=\"https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png\" /></a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 560px;\">\n<div class=\"figcaption header\"><strong>Tools Digital Preservation</strong></div>\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/6/6f/Tools_-_Digital_Preservation.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original\" width=\"560\" height=\"448\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.wikidata.org/wiki/Q55754361\" class=\"author\" target=\"_blank\" rel=\"noopener\">Jørgen Stamp</a>. <a href=\"https://commons.wikimedia.org/wiki/File:Tools_-_Digital_Preservation.png\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Imagen disponible en Wikimedia Commons</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7nh-fuv6btfws</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nh-fuv6btfws</odePageId>
+      <odeBlockId>20260505140044PQGTIF</odeBlockId>
+      <blockName>Nuestro reto final</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nh-fuv6btfws</odePageId>
+          <odeBlockId>20260505140044PQGTIF</odeBlockId>
+          <odeIdeviceId>20260505141736910K34</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Al finalizar este proyecto, habréis recorrido las distintas etapas del proceso periodístico: analizar, reflexionar, investigar, redactar y comunicar. El producto final será el reflejo de todo ese aprendizaje, reuniendo vuestras principales producciones comunicativas elaboradas a lo largo del proyecto.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit,minmax(300px,1fr)); gap: 26px; margin-top: 25px; font-family: Arial, sans-serif;"><!-- TARJETA 1 -->
+<div style="background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8; transition: .3s;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Eurovision_debate_between_the_lead_candidates_for_the_presidency_of_the_European_Commission_took_place_in_the_European_Parliament_on_23_May_2024_-_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Ideas previas y debate" style="width: 100%; height: 190px; object-fit: cover;">
+<div style="padding: 22px;">
+<h3 style="margin-top: 0; color: #183b5b;">Ideas previas y debate</h3>
+<p style="line-height: 1.75; color: #444;">Comenzaremos explorando cómo nos informamos, qué papel tienen hoy los medios de comunicación y de qué manera circula la información en nuestra sociedad. Compartiremos ideas, debatiremos y reflexionaremos críticamente sobre la influencia de las noticias y las fake news.</p>
+<p style="font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;">Fuente: <a href="https://commons.wikimedia.org/wiki/File:Eurovision_debate_between_the_lead_candidates_for_the_presidency_of_the_European_Commission_took_place_in_the_European_Parliament_on_23_May_2024_-_8.jpg" target="_blank" rel="noopener">Wikimedia Commons</a> | Autoría: European Parliament | <a href="https://creativecommons.org/licenses/by/2.0" target="_blank" rel="noopener">Licencia CC</a></p>
+</div>
+</div>
+<!-- TARJETA 2 -->
+<div style="background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Wikipedia_25th_anniversary_Easter_Egg_laptop-idle-light.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Análisis de noticias" style="width: 100%; height: 190px; object-fit: cover;">
+<div style="padding: 22px;">
+<h3 style="margin-top: 0; color: #183b5b;">Análisis de noticias</h3>
+<p style="line-height: 1.75; color: #444;">Leeremos noticias, reportajes y artículos de opinión para descubrir cómo se construye la información, diferenciar hechos de opiniones y detectar posibles sesgos o intenciones comunicativas.</p>
+<p style="font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;">Fuente: <a href="https://commons.wikimedia.org/wiki/File:Wikipedia_25th_anniversary_Easter_Egg_laptop-idle-light.gif" target="_blank" rel="noopener">Wikimedia Commons</a> | Autoría: Wikimedia Foundation | <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">Licencia CC</a></p>
+</div>
+</div>
+<!-- TARJETA 3 -->
+<div style="background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vintage_Windsor_On-The-Air_Microphone_Novelty_Transistor_Radio%2C_Model_MR-7%2C_AM-FM_Bands%2C_Measures_10.25_Inches_Tall%2C_Made_In_China_%2849151438828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Escucha crítica" style="width: 100%; height: 190px; object-fit: cover;">
+<div style="padding: 22px;">
+<h3 style="margin-top: 0; color: #183b5b;">Escucha crítica</h3>
+<p style="line-height: 1.75; color: #444;">Analizaremos podcasts, radio y otros formatos audiovisuales para comprender cómo la voz, la entonación, el ritmo y la forma de comunicar influyen en la recepción del mensaje.</p>
+<p style="font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;">Fuente: <a href="https://commons.wikimedia.org/wiki/File:Vintage_Windsor_On-The-Air_Microphone_Novelty_Transistor_Radio,_Model_MR-7,_AM-FM_Bands,_Measures_10.25_Inches_Tall,_Made_In_China_(49151438828).jpg" target="_blank" rel="noopener">Wikimedia Commons</a> | Autoría: Joe Haupt from USA | <a href="https://creativecommons.org/licenses/by-sa/2.0" target="_blank" rel="noopener">Licencia CC</a></p>
+</div>
+</div>
+<!-- TARJETA 4 -->
+<div style="background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Woman_Writing_a_Letter.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Creación de noticias" style="width: 100%; height: 190px; object-fit: cover;">
+<div style="padding: 22px;">
+<h3 style="margin-top: 0; color: #183b5b;">Creación de noticias</h3>
+<p style="line-height: 1.75; color: #444;">Nos convertiremos en redacción periodística para investigar temas cercanos, seleccionar información relevante, contrastar fuentes y redactar nuestras propias noticias de forma colaborativa.</p>
+<p style="font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;">Fuente: <a href="https://commons.wikimedia.org/wiki/File:Woman_Writing_a_Letter.gif" target="_blank" rel="noopener">Wikimedia Commons</a> | Autoría: Marta Stankevica | <a href="https://creativecommons.org/licenses/by/4.0" target="_blank" rel="noopener">Licencia CC</a></p>
+</div>
+</div>
+<!-- TARJETA 5 -->
+<div style="background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Artículo de opinión" style="width: 100%; height: 190px; object-fit: cover;">
+<div style="padding: 22px;">
+<h3 style="margin-top: 0; color: #183b5b;">Artículo de opinión</h3>
+<p style="line-height: 1.75; color: #444;">Aprenderemos a argumentar y defender nuestras ideas elaborando textos de opinión bien estructurados, fundamentados y respetuosos, desarrollando pensamiento crítico y voz propia.</p>
+<p style="font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;">Fuente: <a href="https://commons.wikimedia.org/wiki/File:Woman_writing_on_a_notebook_with_a_pen.jpg" target="_blank" rel="noopener">Wikimedia Commons</a> | Autoría: Kristin Hardwick | <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" target="_blank" rel="noopener">Licencia CC</a></p>
+</div>
+</div>
+<!-- TARJETA 6 -->
+<div style="background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/DopeTalk_-_Creator_Interview_-_Kyell_Gold_%282017%29.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Entrevista periodística" style="width: 100%; height: 190px; object-fit: cover;">
+<div style="padding: 22px;">
+<h3 style="margin-top: 0; color: #183b5b;">Entrevista periodística</h3>
+<p style="line-height: 1.75; color: #444;">Cerraremos el proyecto preparando y grabando entrevistas periodísticas en formato audio o podcast, poniendo en práctica la escucha activa, la expresión oral y la comunicación responsable.</p>
+<p style="font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;">Fuente: <a href="https://commons.wikimedia.org/wiki/File:DopeTalk_-_Creator_Interview_-_Kyell_Gold_(2017).webp" target="_blank" rel="noopener">Wikimedia Commons</a> | Autoría: Ethan Polensky | <a href="https://creativecommons.org/licenses/by/3.0" target="_blank" rel="noopener">Licencia CC</a></p>
+</div>
+</div>
+</div>
+<div style="margin-top: 25px; padding: 22px; background: #f8f9fb; border-left: 5px solid #6c63ff; border-radius: 12px; font-size: 1.05em; line-height: 1.7;">🌟 <strong>Lo importante no será solo el resultado final, sino todo lo que aprenderéis durante el camino:</strong> analizar la información con mirada crítica, comunicar con claridad y utilizar las herramientas digitales con creatividad y responsabilidad.</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505141736910K34","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar este proyecto, habréis recorrido las distintas etapas del proceso periodístico: analizar, reflexionar, investigar, redactar y comunicar. El producto final será el reflejo de todo ese aprendizaje, reuniendo vuestras principales producciones comunicativas elaboradas a lo largo del proyecto.</p>\n<div style=\"display: grid; grid-template-columns: repeat(auto-fit,minmax(300px,1fr)); gap: 26px; margin-top: 25px; font-family: Arial, sans-serif;\"><!-- TARJETA 1 -->\n<div style=\"background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8; transition: .3s;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/c/cb/Eurovision_debate_between_the_lead_candidates_for_the_presidency_of_the_European_Commission_took_place_in_the_European_Parliament_on_23_May_2024_-_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original\" alt=\"Ideas previas y debate\" style=\"width: 100%; height: 190px; object-fit: cover;\" />\n<div style=\"padding: 22px;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Ideas previas y debate</h3>\n<p style=\"line-height: 1.75; color: #444;\">Comenzaremos explorando cómo nos informamos, qué papel tienen hoy los medios de comunicación y de qué manera circula la información en nuestra sociedad. Compartiremos ideas, debatiremos y reflexionaremos críticamente sobre la influencia de las noticias y las fake news.</p>\n<p style=\"font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;\">Fuente: <a href=\"https://commons.wikimedia.org/wiki/File:Eurovision_debate_between_the_lead_candidates_for_the_presidency_of_the_European_Commission_took_place_in_the_European_Parliament_on_23_May_2024_-_8.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a> | Autoría: European Parliament | <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener\">Licencia CC</a></p>\n</div>\n</div>\n<!-- TARJETA 2 -->\n<div style=\"background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/b/be/Wikipedia_25th_anniversary_Easter_Egg_laptop-idle-light.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original\" alt=\"Análisis de noticias\" style=\"width: 100%; height: 190px; object-fit: cover;\" />\n<div style=\"padding: 22px;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Análisis de noticias</h3>\n<p style=\"line-height: 1.75; color: #444;\">Leeremos noticias, reportajes y artículos de opinión para descubrir cómo se construye la información, diferenciar hechos de opiniones y detectar posibles sesgos o intenciones comunicativas.</p>\n<p style=\"font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;\">Fuente: <a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_25th_anniversary_Easter_Egg_laptop-idle-light.gif\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a> | Autoría: Wikimedia Foundation | <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\" rel=\"noopener\">Licencia CC</a></p>\n</div>\n</div>\n<!-- TARJETA 3 -->\n<div style=\"background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a8/Vintage_Windsor_On-The-Air_Microphone_Novelty_Transistor_Radio%2C_Model_MR-7%2C_AM-FM_Bands%2C_Measures_10.25_Inches_Tall%2C_Made_In_China_%2849151438828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original\" alt=\"Escucha crítica\" style=\"width: 100%; height: 190px; object-fit: cover;\" />\n<div style=\"padding: 22px;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Escucha crítica</h3>\n<p style=\"line-height: 1.75; color: #444;\">Analizaremos podcasts, radio y otros formatos audiovisuales para comprender cómo la voz, la entonación, el ritmo y la forma de comunicar influyen en la recepción del mensaje.</p>\n<p style=\"font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;\">Fuente: <a href=\"https://commons.wikimedia.org/wiki/File:Vintage_Windsor_On-The-Air_Microphone_Novelty_Transistor_Radio,_Model_MR-7,_AM-FM_Bands,_Measures_10.25_Inches_Tall,_Made_In_China_(49151438828).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a> | Autoría: Joe Haupt from USA | <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" target=\"_blank\" rel=\"noopener\">Licencia CC</a></p>\n</div>\n</div>\n<!-- TARJETA 4 -->\n<div style=\"background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/b/bf/Woman_Writing_a_Letter.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original\" alt=\"Creación de noticias\" style=\"width: 100%; height: 190px; object-fit: cover;\" />\n<div style=\"padding: 22px;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Creación de noticias</h3>\n<p style=\"line-height: 1.75; color: #444;\">Nos convertiremos en redacción periodística para investigar temas cercanos, seleccionar información relevante, contrastar fuentes y redactar nuestras propias noticias de forma colaborativa.</p>\n<p style=\"font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;\">Fuente: <a href=\"https://commons.wikimedia.org/wiki/File:Woman_Writing_a_Letter.gif\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a> | Autoría: Marta Stankevica | <a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener\">Licencia CC</a></p>\n</div>\n</div>\n<!-- TARJETA 5 -->\n<div style=\"background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original\" alt=\"Artículo de opinión\" style=\"width: 100%; height: 190px; object-fit: cover;\" />\n<div style=\"padding: 22px;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Artículo de opinión</h3>\n<p style=\"line-height: 1.75; color: #444;\">Aprenderemos a argumentar y defender nuestras ideas elaborando textos de opinión bien estructurados, fundamentados y respetuosos, desarrollando pensamiento crítico y voz propia.</p>\n<p style=\"font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;\">Fuente: <a href=\"https://commons.wikimedia.org/wiki/File:Woman_writing_on_a_notebook_with_a_pen.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a> | Autoría: Kristin Hardwick | <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" target=\"_blank\" rel=\"noopener\">Licencia CC</a></p>\n</div>\n</div>\n<!-- TARJETA 6 -->\n<div style=\"background: #ffffff; border-radius: 18px; overflow: hidden; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e8e8e8;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/3/33/DopeTalk_-_Creator_Interview_-_Kyell_Gold_%282017%29.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original\" alt=\"Entrevista periodística\" style=\"width: 100%; height: 190px; object-fit: cover;\" />\n<div style=\"padding: 22px;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Entrevista periodística</h3>\n<p style=\"line-height: 1.75; color: #444;\">Cerraremos el proyecto preparando y grabando entrevistas periodísticas en formato audio o podcast, poniendo en práctica la escucha activa, la expresión oral y la comunicación responsable.</p>\n<p style=\"font-size: .76em; color: #777; margin-top: 16px; border-top: 1px solid #eee; padding-top: 10px;\">Fuente: <a href=\"https://commons.wikimedia.org/wiki/File:DopeTalk_-_Creator_Interview_-_Kyell_Gold_(2017).webp\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a> | Autoría: Ethan Polensky | <a href=\"https://creativecommons.org/licenses/by/3.0\" target=\"_blank\" rel=\"noopener\">Licencia CC</a></p>\n</div>\n</div>\n</div>\n<div style=\"margin-top: 25px; padding: 22px; background: #f8f9fb; border-left: 5px solid #6c63ff; border-radius: 12px; font-size: 1.05em; line-height: 1.7;\">🌟 <strong>Lo importante no será solo el resultado final, sino todo lo que aprenderéis durante el camino:</strong> analizar la información con mirada crítica, comunicar con claridad y utilizar las herramientas digitales con creatividad y responsabilidad.</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7nh-phr2dhrc3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ciudadanía digital y uso responsable</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ciudadanía digital y uso responsable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ciudadanía digital y uso responsable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nh-phr2dhrc3</odePageId>
+      <odeBlockId>20260505140044DNDGIS</odeBlockId>
+      <blockName>Aprendemos a convivir en digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nh-phr2dhrc3</odePageId>
+          <odeBlockId>20260505140044DNDGIS</odeBlockId>
+          <odeIdeviceId>202605051456392858GN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vivimos en un mundo hiperconectado en el que compartir información, opinar, crear contenidos o comunicarnos digitalmente forma parte de nuestra vida cotidiana. Sin embargo, utilizar la tecnología no consiste solo en saber manejar herramientas digitales, sino también en hacerlo de forma segura, ética y responsable.</p>
+<p>A lo largo de este proyecto aprenderemos a desenvolvernos en entornos digitales respetando la privacidad, valorando la autoría de los contenidos, cuidando nuestra identidad digital y participando en espacios virtuales desde el respeto, la empatía y el pensamiento crítico.</p>
+<p><br /></p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); gap: 24px; margin-top: 25px;">
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #4a90e2;">
+<h3 style="margin-top: 0; color: #183b5b;">Protección de datos personales</h3>
+<p style="line-height: 1.75; color: #444;">Aprenderemos a cuidar nuestra información personal en internet, evitando compartir datos sensibles, gestionando adecuadamente permisos de privacidad y reflexionando sobre la huella digital que dejamos con nuestras publicaciones.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #43a047;">
+<h3 style="margin-top: 0; color: #183b5b;">Derechos digitales</h3>
+<p style="line-height: 1.75; color: #444;">Reflexionaremos sobre la intimidad digital, el respeto a la identidad de cada persona y la importancia de utilizar la tecnología desde valores democráticos, inclusivos e igualitarios.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #d89b00;">
+<h3 style="margin-top: 0; color: #183b5b;">Uso ético de contenidos</h3>
+<p style="line-height: 1.75; color: #444;">Trabajaremos la importancia de citar fuentes, respetar licencias de uso, reconocer la autoría de imágenes, textos o recursos audiovisuales y utilizar la inteligencia artificial de forma responsable.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #8e44ad;">
+<h3 style="margin-top: 0; color: #183b5b;">Comunicación responsable</h3>
+<p style="line-height: 1.75; color: #444;">Promoveremos una comunicación digital respetuosa, crítica y constructiva, aprendiendo a contrastar información antes de compartirla y a debatir con argumentos y empatía.</p>
+</div>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605051456392858GN","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vivimos en un mundo hiperconectado en el que compartir información, opinar, crear contenidos o comunicarnos digitalmente forma parte de nuestra vida cotidiana. Sin embargo, utilizar la tecnología no consiste solo en saber manejar herramientas digitales, sino también en hacerlo de forma segura, ética y responsable.</p>\n<p>A lo largo de este proyecto aprenderemos a desenvolvernos en entornos digitales respetando la privacidad, valorando la autoría de los contenidos, cuidando nuestra identidad digital y participando en espacios virtuales desde el respeto, la empatía y el pensamiento crítico.</p>\n<p><br /></p>\n<div style=\"display: grid; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); gap: 24px; margin-top: 25px;\">\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #4a90e2;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Protección de datos personales</h3>\n<p style=\"line-height: 1.75; color: #444;\">Aprenderemos a cuidar nuestra información personal en internet, evitando compartir datos sensibles, gestionando adecuadamente permisos de privacidad y reflexionando sobre la huella digital que dejamos con nuestras publicaciones.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #43a047;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Derechos digitales</h3>\n<p style=\"line-height: 1.75; color: #444;\">Reflexionaremos sobre la intimidad digital, el respeto a la identidad de cada persona y la importancia de utilizar la tecnología desde valores democráticos, inclusivos e igualitarios.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #d89b00;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Uso ético de contenidos</h3>\n<p style=\"line-height: 1.75; color: #444;\">Trabajaremos la importancia de citar fuentes, respetar licencias de uso, reconocer la autoría de imágenes, textos o recursos audiovisuales y utilizar la inteligencia artificial de forma responsable.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #8e44ad;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Comunicación responsable</h3>\n<p style=\"line-height: 1.75; color: #444;\">Promoveremos una comunicación digital respetuosa, crítica y constructiva, aprendiendo a contrastar información antes de compartirla y a debatir con argumentos y empatía.</p>\n</div>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nh-phr2dhrc3</odePageId>
+      <odeBlockId>20260505140044YCPSJO</odeBlockId>
+      <blockName>Nuestro compromiso digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nh-phr2dhrc3</odePageId>
+          <odeBlockId>20260505140044YCPSJO</odeBlockId>
+          <odeIdeviceId>20260505145752756NRM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Durante este proyecto asumiremos un compromiso común para utilizar la tecnología de forma segura, responsable y respetuosa. Nos comprometemos a proteger nuestra privacidad, respetar la autoría de los contenidos que utilicemos, contrastar la información antes de compartirla y comunicarnos siempre desde el respeto, la empatía y la convivencia positiva.</p>
+<p>También seremos conscientes de la huella digital que dejamos con nuestras acciones en internet y aprenderemos a construir una identidad digital responsable, crítica y coherente con los valores democráticos y de ciudadanía activa.</p>
+<p><br></p>
+<div style="background: #f8fbff; padding: 24px; border-radius: 16px; box-shadow: 0 4px 14px rgba(0,0,0,.06); margin-top: 20px; line-height: 2; font-size: 1.05em;">✓ Protejo mis datos personales<br>✓ Respeto la privacidad de otras personas<br>✓ Cito las fuentes que utilizo<br>✓ Contrasto la información antes de compartirla<br>✓ Me comunico con respeto<br>✓ Utilizo la tecnología para aprender, crear y aportar valor positivo</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505145752756NRM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante este proyecto asumiremos un compromiso común para utilizar la tecnología de forma segura, responsable y respetuosa. Nos comprometemos a proteger nuestra privacidad, respetar la autoría de los contenidos que utilicemos, contrastar la información antes de compartirla y comunicarnos siempre desde el respeto, la empatía y la convivencia positiva.</p>\n<p>También seremos conscientes de la huella digital que dejamos con nuestras acciones en internet y aprenderemos a construir una identidad digital responsable, crítica y coherente con los valores democráticos y de ciudadanía activa.</p>\n<p><br /></p>\n<div style=\"background: #f8fbff; padding: 24px; border-radius: 16px; box-shadow: 0 4px 14px rgba(0,0,0,.06); margin-top: 20px; line-height: 2; font-size: 1.05em;\">✓ Protejo mis datos personales<br />✓ Respeto la privacidad de otras personas<br />✓ Cito las fuentes que utilizo<br />✓ Contrasto la información antes de compartirla<br />✓ Me comunico con respeto<br />✓ Utilizo la tecnología para aprender, crear y aportar valor positivo</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nh-phr2dhrc3</odePageId>
+      <odeBlockId>20260505140044ZCHJAO</odeBlockId>
+      <blockName>Guía de ciudadanía digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nh-phr2dhrc3</odePageId>
+          <odeBlockId>20260505140044ZCHJAO</odeBlockId>
+          <odeIdeviceId>20260505145847521QT4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="800" height="3217" style="overflow-y: hidden;" frameborder="0" scrolling="no" src="https://create.piktochart.com/embed/d8139032209f-gnu?theme=pikto"></iframe></p>
+<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505145847521QT4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"800\" height=\"3217\" style=\"overflow-y: hidden;\" frameborder=\"0\" scrolling=\"no\" src=\"https://create.piktochart.com/embed/d8139032209f-gnu?theme=pikto\"></iframe></p>\n<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7ni-aoyc3rhmm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para aprender</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para aprender</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para aprender</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7ni-aoyc3rhmm</odePageId>
+      <odeBlockId>20260505140044JQZBDG</odeBlockId>
+      <blockName>Explora, investiga y crea</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7ni-aoyc3rhmm</odePageId>
+          <odeBlockId>20260505140044JQZBDG</odeBlockId>
+          <odeIdeviceId>20260505151017815PCA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>El periodismo consiste en observar, investigar, contrastar información y comunicarla con claridad y responsabilidad. Para ello, a lo largo de este proyecto utilizaremos diferentes recursos digitales que nos ayudarán a informarnos mejor, verificar datos, inspirarnos y crear contenidos propios de manera creativa y rigurosa.</p>
+<p>A continuación encontrarás una selección de herramientas y recursos que podrás consultar siempre que lo necesites durante el proyecto.</p>
+<p><br></p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); gap: 24px; margin-top: 25px;">
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #1e88e5;">
+<h3 style="margin-top: 0; color: #183b5b;">Periódicos digitales</h3>
+<p style="line-height: 1.7; color: #444;">Consulta medios de comunicación nacionales e internacionales para analizar estilos periodísticos, enfoques informativos y temas de actualidad.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #43a047;">
+<h3 style="margin-top: 0; color: #183b5b;">Verificación de información</h3>
+<p style="line-height: 1.7; color: #444;">Aprenderemos a contrastar fuentes, comprobar titulares llamativos y detectar bulos o noticias falsas antes de compartirlas.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #f9a825;">
+<h3 style="margin-top: 0; color: #183b5b;">Podcasts y radio</h3>
+<p style="line-height: 1.7; color: #444;">Exploraremos formatos sonoros para analizar cómo se construye la información oral y mejorar nuestra propia comunicación.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #8e24aa;">
+<h3 style="margin-top: 0; color: #183b5b;">Diseño y creatividad</h3>
+<p style="line-height: 1.7; color: #444;">Utilizaremos herramientas digitales para transformar nuestras ideas en contenidos visuales atractivos, claros y bien comunicados.</p>
+</div>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505151017815PCA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El periodismo consiste en observar, investigar, contrastar información y comunicarla con claridad y responsabilidad. Para ello, a lo largo de este proyecto utilizaremos diferentes recursos digitales que nos ayudarán a informarnos mejor, verificar datos, inspirarnos y crear contenidos propios de manera creativa y rigurosa.</p>\n<p>A continuación encontrarás una selección de herramientas y recursos que podrás consultar siempre que lo necesites durante el proyecto.</p>\n<p><br /></p>\n<div style=\"display: grid; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); gap: 24px; margin-top: 25px;\">\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #1e88e5;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Periódicos digitales</h3>\n<p style=\"line-height: 1.7; color: #444;\">Consulta medios de comunicación nacionales e internacionales para analizar estilos periodísticos, enfoques informativos y temas de actualidad.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #43a047;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Verificación de información</h3>\n<p style=\"line-height: 1.7; color: #444;\">Aprenderemos a contrastar fuentes, comprobar titulares llamativos y detectar bulos o noticias falsas antes de compartirlas.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #f9a825;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Podcasts y radio</h3>\n<p style=\"line-height: 1.7; color: #444;\">Exploraremos formatos sonoros para analizar cómo se construye la información oral y mejorar nuestra propia comunicación.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #8e24aa;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Diseño y creatividad</h3>\n<p style=\"line-height: 1.7; color: #444;\">Utilizaremos herramientas digitales para transformar nuestras ideas en contenidos visuales atractivos, claros y bien comunicados.</p>\n</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7ni-aoyc3rhmm</odePageId>
+      <odeBlockId>20260505140044GBQZCA</odeBlockId>
+      <blockName>Banco de recursos del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7ni-aoyc3rhmm</odePageId>
+          <odeBlockId>20260505140044GBQZCA</odeBlockId>
+          <odeIdeviceId>20260505151209461CV8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="450" style="border: 0; width: 100%; height: 450px;" allowfullscreen="allowfullscreen" frameborder="0" src="https://icasful402.raindrop.page/curacion-de-contenidos-para-el-alumnado-70332236/embed"></iframe></p>
+<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505151209461CV8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"450\" style=\"border: 0; width: 100%; height: 450px;\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" src=\"https://icasful402.raindrop.page/curacion-de-contenidos-para-el-alumnado-70332236/embed\"></iframe></p>\n<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7nj-jrl8yjux6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Caja de herramientas para el profesorado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caja de herramientas para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caja de herramientas para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nj-jrl8yjux6</odePageId>
+      <odeBlockId>20260505140044GAZEWC</odeBlockId>
+      <blockName>Recursos para enseñar, crear e innovar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nj-jrl8yjux6</odePageId>
+          <odeBlockId>20260505140044GAZEWC</odeBlockId>
+          <odeIdeviceId>202605051515342772U7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Detrás de cada proyecto educativo hay también un trabajo de planificación, diseño y selección de recursos que hacen posible el aprendizaje. Esta caja de herramientas reúne diferentes plataformas, aplicaciones y espacios digitales de gran utilidad para la práctica docente, la creación de materiales, la evaluación y la organización del trabajo en el aula.</p>
+<p>Son recursos pensados para facilitar la labor educativa, fomentar metodologías activas y enriquecer la experiencia de aprendizaje del alumnado mediante el uso creativo y responsable de la tecnología.</p>
+<p><br></p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); gap: 24px; margin-top: 25px;">
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #0d47a1;">
+<h3 style="margin-top: 0; color: #183b5b;">Gestión educativa</h3>
+<p style="line-height: 1.7; color: #444;">Plataformas institucionales para la comunicación con familias, seguimiento académico, evaluación y organización de la práctica docente.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #00897b;">
+<h3 style="margin-top: 0; color: #183b5b;">Diseño de recursos</h3>
+<p style="line-height: 1.7; color: #444;">Herramientas para crear materiales didácticos interactivos, infografías, presentaciones, recursos multimedia y experiencias de aprendizaje más atractivas.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #f57c00;">
+<h3 style="margin-top: 0; color: #183b5b;">Evaluación y seguimiento</h3>
+<p style="line-height: 1.7; color: #444;">Instrumentos digitales para recoger evidencias de aprendizaje, evaluar procesos y facilitar la retroalimentación continua al alumnado.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #7b1fa2;">
+<h3 style="margin-top: 0; color: #183b5b;">Inspiración y recursos abiertos</h3>
+<p style="line-height: 1.7; color: #444;">Repositorios educativos, bancos de recursos y espacios colaborativos para compartir buenas prácticas, ideas y materiales reutilizables.</p>
+</div>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605051515342772U7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Detrás de cada proyecto educativo hay también un trabajo de planificación, diseño y selección de recursos que hacen posible el aprendizaje. Esta caja de herramientas reúne diferentes plataformas, aplicaciones y espacios digitales de gran utilidad para la práctica docente, la creación de materiales, la evaluación y la organización del trabajo en el aula.</p>\n<p>Son recursos pensados para facilitar la labor educativa, fomentar metodologías activas y enriquecer la experiencia de aprendizaje del alumnado mediante el uso creativo y responsable de la tecnología.</p>\n<p><br /></p>\n<div style=\"display: grid; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); gap: 24px; margin-top: 25px;\">\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #0d47a1;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Gestión educativa</h3>\n<p style=\"line-height: 1.7; color: #444;\">Plataformas institucionales para la comunicación con familias, seguimiento académico, evaluación y organización de la práctica docente.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #00897b;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Diseño de recursos</h3>\n<p style=\"line-height: 1.7; color: #444;\">Herramientas para crear materiales didácticos interactivos, infografías, presentaciones, recursos multimedia y experiencias de aprendizaje más atractivas.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #f57c00;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Evaluación y seguimiento</h3>\n<p style=\"line-height: 1.7; color: #444;\">Instrumentos digitales para recoger evidencias de aprendizaje, evaluar procesos y facilitar la retroalimentación continua al alumnado.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #7b1fa2;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Inspiración y recursos abiertos</h3>\n<p style=\"line-height: 1.7; color: #444;\">Repositorios educativos, bancos de recursos y espacios colaborativos para compartir buenas prácticas, ideas y materiales reutilizables.</p>\n</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nj-jrl8yjux6</odePageId>
+      <odeBlockId>20260505140044TOHRMV</odeBlockId>
+      <blockName>Repositorio docente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nj-jrl8yjux6</odePageId>
+          <odeBlockId>20260505140044TOHRMV</odeBlockId>
+          <odeIdeviceId>20260505151638147DSK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100%" height="760px" style="border: none;" class="wakeletEmbed" src="https://embed.wakelet.com/wakes/o5ZECrXdR7VWNpIlOJqmL/grid?border=1" allow="autoplay"></iframe></p>
+<!-- Please only call https://embed-assets.wakelet.com/wakelet-embed.js once per page -->
+<p>
+<script src="https://embed-assets.wakelet.com/wakelet-embed.js" charset="UTF-8"></script>
+</p>
+<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505151638147DSK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100%\" height=\"760px\" style=\"border: none;\" class=\"wakeletEmbed\" src=\"https://embed.wakelet.com/wakes/o5ZECrXdR7VWNpIlOJqmL/grid?border=1\" allow=\"autoplay\"></iframe></p>\n<!-- Please only call https://embed-assets.wakelet.com/wakelet-embed.js once per page -->\n<p>\n<script src=\"https://embed-assets.wakelet.com/wakelet-embed.js\" charset=\"UTF-8\"></script>\n</p>\n<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7nj-usk9hp8z7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo vamos a aprender y evaluar?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo vamos a aprender y evaluar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo vamos a aprender y evaluar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nj-usk9hp8z7</odePageId>
+      <odeBlockId>20260505140044ZOYSNC</odeBlockId>
+      <blockName>Aprender también es reflexionar sobre lo que hacemos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nj-usk9hp8z7</odePageId>
+          <odeBlockId>20260505140044ZOYSNC</odeBlockId>
+          <odeIdeviceId>20260505152025606LWV</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En este proyecto, la evaluación será parte del propio aprendizaje. No consistirá únicamente en obtener una calificación final, sino en analizar cómo trabajamos, cómo mejoramos nuestras producciones y qué habilidades vamos desarrollando a lo largo del proceso.</p>
+<p>Valoraremos no solo el resultado final, sino también la participación, la creatividad, la capacidad para investigar, la calidad de la expresión oral y escrita, el trabajo cooperativo y el uso responsable de las herramientas digitales.</p>
+<p>La evaluación será continua, formativa y orientada a ayudaros a crecer como comunicadores y comunicadoras críticos, creativos y responsables.</p>
+<div style="display: grid; grid-template-columns: repeat(2,minmax(280px,1fr)); gap: 24px; margin-top: 25px;">
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #1e88e5;">
+<h3 style="margin-top: 0; color: #183b5b;">Proceso de aprendizaje</h3>
+<p style="line-height: 1.7; color: #444;">Valoraremos vuestro esfuerzo, evolución personal e implicación a lo largo del proyecto.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #43a047;">
+<h3 style="margin-top: 0; color: #183b5b;">Producciones realizadas</h3>
+<p style="line-height: 1.7; color: #444;">Se tendrá en cuenta la calidad de noticias, artículos, entrevistas y demás trabajos elaborados.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #f9a825;">
+<h3 style="margin-top: 0; color: #183b5b;">Competencia digital</h3>
+<p style="line-height: 1.7; color: #444;">Observaremos cómo utilizáis herramientas digitales de manera creativa, ética y responsable.</p>
+</div>
+<div style="background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #8e44ad;">
+<h3 style="margin-top: 0; color: #183b5b;">Trabajo cooperativo</h3>
+<p style="line-height: 1.7; color: #444;">También valoraremos la participación, la escucha activa, la responsabilidad y el trabajo en equipo.</p>
+</div>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505152025606LWV","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto, la evaluación será parte del propio aprendizaje. No consistirá únicamente en obtener una calificación final, sino en analizar cómo trabajamos, cómo mejoramos nuestras producciones y qué habilidades vamos desarrollando a lo largo del proceso.</p>\n<p>Valoraremos no solo el resultado final, sino también la participación, la creatividad, la capacidad para investigar, la calidad de la expresión oral y escrita, el trabajo cooperativo y el uso responsable de las herramientas digitales.</p>\n<p>La evaluación será continua, formativa y orientada a ayudaros a crecer como comunicadores y comunicadoras críticos, creativos y responsables.</p>\n<div style=\"display: grid; grid-template-columns: repeat(2,minmax(280px,1fr)); gap: 24px; margin-top: 25px;\">\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #1e88e5;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Proceso de aprendizaje</h3>\n<p style=\"line-height: 1.7; color: #444;\">Valoraremos vuestro esfuerzo, evolución personal e implicación a lo largo del proyecto.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #43a047;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Producciones realizadas</h3>\n<p style=\"line-height: 1.7; color: #444;\">Se tendrá en cuenta la calidad de noticias, artículos, entrevistas y demás trabajos elaborados.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #f9a825;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Competencia digital</h3>\n<p style=\"line-height: 1.7; color: #444;\">Observaremos cómo utilizáis herramientas digitales de manera creativa, ética y responsable.</p>\n</div>\n<div style=\"background: white; border-radius: 18px; padding: 24px; box-shadow: 0 6px 18px rgba(0,0,0,.08); border-top: 6px solid #8e44ad;\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">Trabajo cooperativo</h3>\n<p style=\"line-height: 1.7; color: #444;\">También valoraremos la participación, la escucha activa, la responsabilidad y el trabajo en equipo.</p>\n</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nj-usk9hp8z7</odePageId>
+      <odeBlockId>20260505140044CRDFAX</odeBlockId>
+      <blockName>Nuestros instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nj-usk9hp8z7</odePageId>
+          <odeBlockId>20260505140044CRDFAX</odeBlockId>
+          <odeIdeviceId>20260505152238125K91</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="max-width: 1100px; margin: 0 auto; line-height: 1.8; color: #333;">
+<p>Para acompañar vuestro aprendizaje utilizaremos distintos instrumentos de evaluación que nos permitirán valorar no solo el resultado final, sino también el proceso seguido, la participación, la creatividad, el pensamiento crítico y el uso responsable de las herramientas digitales.</p>
+<p>La <strong>rúbrica de evaluación</strong> nos ayudará a conocer qué aspectos se tendrán en cuenta en las producciones realizadas, ofreciendo criterios claros sobre búsqueda de información, tratamiento periodístico, estructura del texto, capacidad crítica, comunicación y trabajo cooperativo.</p>
+<div style="margin: 35px 0; padding: 25px; background: white; border-radius: 18px; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e6e6e6;">
+<h3 style="margin-top: 0; color: #183b5b; font-size: 1.3em;">Rúbrica de evaluación del proyecto</h3>
+<iframe width="100%" height="900" style="border: none; border-radius: 12px; background: white;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlbf-2LGNEzeQZ2cX3XO8fdYOpwY6fi8oumFgU1-wmZafGSfEdMZLDggKGNBYq6K1W-3lZ4TV_bzBa/pubhtml?widget=true&amp;headers=false"></iframe></div>
+Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia
+<p>Por su parte, la <strong>lista de cotejo</strong> servirá como herramienta de seguimiento durante el proyecto, permitiendo observar hábitos de trabajo, participación, contraste de fuentes, expresión oral y escrita, colaboración y responsabilidad en el uso de recursos digitales.</p>
+<div style="margin: 35px 0; padding: 25px; background: white; border-radius: 18px; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e6e6e6;">
+<h3 style="margin-top: 0; color: #183b5b; font-size: 1.3em;">Lista de cotejo y seguimiento</h3>
+<iframe width="100%" height="700" style="border: none; border-radius: 12px; background: white;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcOd2AdxHmMMG7o0qOt_hUMNCBo3STyTzPaCT57_WHFfn6dR6pb5Z89xAvLkEd8qz3ylCfPNTGIvIh/pubhtml?widget=true&amp;headers=false"></iframe></div>
+Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia
+<div style="margin-top: 30px; padding: 24px; background: #f8f9fb; border-left: 6px solid #5b6cff; border-radius: 14px; font-size: 1.05em; line-height: 1.8; color: #444; box-shadow: 0 4px 12px rgba(0,0,0,.05);">Evaluar no consiste únicamente en poner una nota, sino en <strong>acompañar el aprendizaje, reconocer avances, detectar fortalezas y encontrar nuevas oportunidades para seguir creciendo</strong> como comunicadores y comunicadoras críticos, creativos y responsables.</div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505152238125K91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"max-width: 1100px; margin: 0 auto; line-height: 1.8; color: #333;\">\n<p>Para acompañar vuestro aprendizaje utilizaremos distintos instrumentos de evaluación que nos permitirán valorar no solo el resultado final, sino también el proceso seguido, la participación, la creatividad, el pensamiento crítico y el uso responsable de las herramientas digitales.</p>\n<p>La <strong>rúbrica de evaluación</strong> nos ayudará a conocer qué aspectos se tendrán en cuenta en las producciones realizadas, ofreciendo criterios claros sobre búsqueda de información, tratamiento periodístico, estructura del texto, capacidad crítica, comunicación y trabajo cooperativo.</p>\n<div style=\"margin: 35px 0; padding: 25px; background: white; border-radius: 18px; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e6e6e6;\">\n<h3 style=\"margin-top: 0; color: #183b5b; font-size: 1.3em;\">Rúbrica de evaluación del proyecto</h3>\n<iframe width=\"100%\" height=\"900\" style=\"border: none; border-radius: 12px; background: white;\" src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRlbf-2LGNEzeQZ2cX3XO8fdYOpwY6fi8oumFgU1-wmZafGSfEdMZLDggKGNBYq6K1W-3lZ4TV_bzBa/pubhtml?widget=true&amp;headers=false\"></iframe></div>\nIrene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia\n<p>Por su parte, la <strong>lista de cotejo</strong> servirá como herramienta de seguimiento durante el proyecto, permitiendo observar hábitos de trabajo, participación, contraste de fuentes, expresión oral y escrita, colaboración y responsabilidad en el uso de recursos digitales.</p>\n<div style=\"margin: 35px 0; padding: 25px; background: white; border-radius: 18px; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e6e6e6;\">\n<h3 style=\"margin-top: 0; color: #183b5b; font-size: 1.3em;\">Lista de cotejo y seguimiento</h3>\n<iframe width=\"100%\" height=\"700\" style=\"border: none; border-radius: 12px; background: white;\" src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vQcOd2AdxHmMMG7o0qOt_hUMNCBo3STyTzPaCT57_WHFfn6dR6pb5Z89xAvLkEd8qz3ylCfPNTGIvIh/pubhtml?widget=true&amp;headers=false\"></iframe></div>\nIrene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia\n<div style=\"margin-top: 30px; padding: 24px; background: #f8f9fb; border-left: 6px solid #5b6cff; border-radius: 14px; font-size: 1.05em; line-height: 1.8; color: #444; box-shadow: 0 4px 12px rgba(0,0,0,.05);\">Evaluar no consiste únicamente en poner una nota, sino en <strong>acompañar el aprendizaje, reconocer avances, detectar fortalezas y encontrar nuevas oportunidades para seguir creciendo</strong> como comunicadores y comunicadoras críticos, creativos y responsables.</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nj-usk9hp8z7</odePageId>
+      <odeBlockId>20260505140044FPGSAS</odeBlockId>
+      <blockName>Aprender, crear y mejorar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nj-usk9hp8z7</odePageId>
+          <odeBlockId>20260505140044FPGSAS</odeBlockId>
+          <odeIdeviceId>20260505153443008UJK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div style="margin-top: 20px; padding: 28px; background: linear-gradient(135deg,#f8fbff,#eef5ff); border-left: 6px solid #5b6cff; border-radius: 16px; box-shadow: 0 6px 18px rgba(0,0,0,.06); line-height: 1.9; color: #333;">
+<p style="margin-top: 0;">A lo largo de este proyecto no solo valoraremos el producto final, sino también <strong>todo el camino recorrido</strong>: vuestra participación, la capacidad para analizar críticamente la información, la creatividad a la hora de comunicar, la calidad de vuestras producciones escritas y orales, el trabajo cooperativo y el uso responsable de las herramientas digitales.</p>
+<p>También se tendrá en cuenta vuestra capacidad para <strong>investigar, contrastar fuentes, argumentar ideas propias, escuchar activamente, respetar opiniones diferentes y comunicar mensajes claros, rigurosos y bien fundamentados</strong>, desarrollando así competencias que os serán útiles dentro y fuera del aula.</p>
+<div style="margin: 24px 0; padding: 20px; background: white; border-radius: 14px; box-shadow: 0 4px 12px rgba(0,0,0,.05);">
+<h3 style="margin-top: 0; color: #183b5b;">¿Qué vamos a evaluar?</h3>
+✓ Comprensión crítica de la información<br>✓ Producción escrita periodística<br>✓ Expresión oral y comunicación<br>✓ Argumentación y pensamiento crítico<br>✓ Trabajo cooperativo y participación<br>✓ Competencia digital y ciudadanía responsable</div>
+<p style="margin-bottom: 0;"><strong>Evaluar no consiste únicamente en poner una nota</strong>, sino en acompañar vuestro aprendizaje, reconocer vuestros avances, descubrir fortalezas y ofrecer nuevas oportunidades para seguir creciendo como comunicadores y comunicadoras críticos, creativos y responsables.</p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505153443008UJK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"margin-top: 20px; padding: 28px; background: linear-gradient(135deg,#f8fbff,#eef5ff); border-left: 6px solid #5b6cff; border-radius: 16px; box-shadow: 0 6px 18px rgba(0,0,0,.06); line-height: 1.9; color: #333;\">\n<p style=\"margin-top: 0;\">A lo largo de este proyecto no solo valoraremos el producto final, sino también <strong>todo el camino recorrido</strong>: vuestra participación, la capacidad para analizar críticamente la información, la creatividad a la hora de comunicar, la calidad de vuestras producciones escritas y orales, el trabajo cooperativo y el uso responsable de las herramientas digitales.</p>\n<p>También se tendrá en cuenta vuestra capacidad para <strong>investigar, contrastar fuentes, argumentar ideas propias, escuchar activamente, respetar opiniones diferentes y comunicar mensajes claros, rigurosos y bien fundamentados</strong>, desarrollando así competencias que os serán útiles dentro y fuera del aula.</p>\n<div style=\"margin: 24px 0; padding: 20px; background: white; border-radius: 14px; box-shadow: 0 4px 12px rgba(0,0,0,.05);\">\n<h3 style=\"margin-top: 0; color: #183b5b;\">¿Qué vamos a evaluar?</h3>\n✓ Comprensión crítica de la información<br />✓ Producción escrita periodística<br />✓ Expresión oral y comunicación<br />✓ Argumentación y pensamiento crítico<br />✓ Trabajo cooperativo y participación<br />✓ Competencia digital y ciudadanía responsable</div>\n<p style=\"margin-bottom: 0;\"><strong>Evaluar no consiste únicamente en poner una nota</strong>, sino en acompañar vuestro aprendizaje, reconocer vuestros avances, descubrir fortalezas y ofrecer nuevas oportunidades para seguir creciendo como comunicadores y comunicadoras críticos, creativos y responsables.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7nk-u3kbkk1fz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nk-u3kbkk1fz</odePageId>
+      <odeBlockId>20260505140044IGXEDI</odeBlockId>
+      <blockName>Una propuesta para aprender comunicando</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nk-u3kbkk1fz</odePageId>
+          <odeBlockId>20260505140044IGXEDI</odeBlockId>
+          <odeIdeviceId>20260505155018457S7P</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Esta guía didáctica recoge la planificación pedagógica que sustenta este proyecto, una propuesta educativa diseñada para acercar al alumnado al análisis crítico de la información, al desarrollo de la competencia comunicativa y al uso creativo y responsable de las herramientas digitales.</p>
+<p>A través de una secuencia de actividades activas, cooperativas y contextualizadas, el alumnado se convertirá en protagonista de su propio aprendizaje, investigando, analizando, creando contenidos y comunicando ideas en distintos formatos periodísticos.</p>
+<p>La propuesta combina trabajo colaborativo, reflexión crítica, alfabetización mediática y competencia digital, ofreciendo experiencias de aprendizaje significativas que conectan el aula con la realidad comunicativa que rodea al alumnado.</p>
+<p>En los siguientes apartados se presenta la finalidad educativa del proyecto, la metodología empleada, la secuencia didáctica, la atención a la diversidad, la organización temporal y la vinculación curricular que da sentido a esta experiencia de aprendizaje.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505155018457S7P","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta guía didáctica recoge la planificación pedagógica que sustenta este proyecto, una propuesta educativa diseñada para acercar al alumnado al análisis crítico de la información, al desarrollo de la competencia comunicativa y al uso creativo y responsable de las herramientas digitales.</p>\n<p>A través de una secuencia de actividades activas, cooperativas y contextualizadas, el alumnado se convertirá en protagonista de su propio aprendizaje, investigando, analizando, creando contenidos y comunicando ideas en distintos formatos periodísticos.</p>\n<p>La propuesta combina trabajo colaborativo, reflexión crítica, alfabetización mediática y competencia digital, ofreciendo experiencias de aprendizaje significativas que conectan el aula con la realidad comunicativa que rodea al alumnado.</p>\n<p>En los siguientes apartados se presenta la finalidad educativa del proyecto, la metodología empleada, la secuencia didáctica, la atención a la diversidad, la organización temporal y la vinculación curricular que da sentido a esta experiencia de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7nk-vct2leauw</odePageId>
+  <odeParentPageId>page-moufg7nk-u3kbkk1fz</odeParentPageId>
+  <pageName>Diseño pedagógico del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diseño pedagógico del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diseño pedagógico del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nk-vct2leauw</odePageId>
+      <odeBlockId>20260505140044GXDTJM</odeBlockId>
+      <blockName>¿Cómo vamos a trabajar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nk-vct2leauw</odePageId>
+          <odeBlockId>20260505140044GXDTJM</odeBlockId>
+          <odeIdeviceId>20260505155419966VAN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>La propuesta metodológica se apoya en un enfoque activo y competencial, situando al alumnado en el centro del aprendizaje y convirtiéndolo en protagonista del proceso comunicativo.</p>
+<p>Se combinan estrategias de aprendizaje cooperativo, reflexión crítica, trabajo por proyectos y producción de contenidos digitales, favoreciendo situaciones de aprendizaje significativas, cercanas a la realidad del alumnado y conectadas con su entorno.</p>
+<p>El uso de herramientas como Mentimeter, Google Docs, Canva, Genially o Vocaroo permite enriquecer la experiencia educativa y desarrollar la competencia digital de manera natural e integrada.</p>
+<p>Asimismo, se promoverá una evaluación continua y formativa, orientada a acompañar el aprendizaje y favorecer la mejora progresiva.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505155419966VAN","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La propuesta metodológica se apoya en un enfoque activo y competencial, situando al alumnado en el centro del aprendizaje y convirtiéndolo en protagonista del proceso comunicativo.</p>\n<p>Se combinan estrategias de aprendizaje cooperativo, reflexión crítica, trabajo por proyectos y producción de contenidos digitales, favoreciendo situaciones de aprendizaje significativas, cercanas a la realidad del alumnado y conectadas con su entorno.</p>\n<p>El uso de herramientas como Mentimeter, Google Docs, Canva, Genially o Vocaroo permite enriquecer la experiencia educativa y desarrollar la competencia digital de manera natural e integrada.</p>\n<p>Asimismo, se promoverá una evaluación continua y formativa, orientada a acompañar el aprendizaje y favorecer la mejora progresiva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nk-vct2leauw</odePageId>
+      <odeBlockId>20260505140044OESYWG</odeBlockId>
+      <blockName>Secuencia didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nk-vct2leauw</odePageId>
+          <odeBlockId>20260505140044OESYWG</odeBlockId>
+          <odeIdeviceId>20260505155438663XHD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="max-width: 100%; margin: 30px auto; padding: 24px; background: white; border-radius: 18px; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e6e6e6; text-align: center;">
+<h3 style="margin-top: 0; color: #183b5b; font-size: 1.35em;">Secuencia didáctica del proyecto</h3>
+<p style="color: #555; line-height: 1.7; margin-bottom: 25px;">A continuación se presenta la planificación general del proyecto, donde se recogen las actividades propuestas, la organización del trabajo, la temporalización y las herramientas digitales que acompañarán el proceso de aprendizaje.</p>
+<iframe width="100%" height="850" style="border: none; border-radius: 12px; background: white;" src="https://drive.google.com/file/d/1Q-g2tqA7ZWbEpIt9hTqpCV656NUCyrwbNj86zWz6So4/preview" allow="autoplay"></iframe>
+<p style="margin-top: 18px; font-size: .95em;"><a href="https://drive.google.com/file/d/1Q-g2tqA7ZWbEpIt9hTqpCV656NUCyrwbNj86zWz6So4/view" target="_blank" style="display: inline-block; padding: 12px 22px; background: #4a90e2; color: white; text-decoration: none; border-radius: 10px; font-weight: 600;" rel="noopener"> Abrir en pantalla completa </a></p>
+</div>
+<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505155438663XHD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"max-width: 100%; margin: 30px auto; padding: 24px; background: white; border-radius: 18px; box-shadow: 0 8px 22px rgba(0,0,0,.08); border: 1px solid #e6e6e6; text-align: center;\">\n<h3 style=\"margin-top: 0; color: #183b5b; font-size: 1.35em;\">Secuencia didáctica del proyecto</h3>\n<p style=\"color: #555; line-height: 1.7; margin-bottom: 25px;\">A continuación se presenta la planificación general del proyecto, donde se recogen las actividades propuestas, la organización del trabajo, la temporalización y las herramientas digitales que acompañarán el proceso de aprendizaje.</p>\n<iframe width=\"100%\" height=\"850\" style=\"border: none; border-radius: 12px; background: white;\" src=\"https://drive.google.com/file/d/1Q-g2tqA7ZWbEpIt9hTqpCV656NUCyrwbNj86zWz6So4/preview\" allow=\"autoplay\"></iframe>\n<p style=\"margin-top: 18px; font-size: .95em;\"><a href=\"https://drive.google.com/file/d/1Q-g2tqA7ZWbEpIt9hTqpCV656NUCyrwbNj86zWz6So4/view\" target=\"_blank\" style=\"display: inline-block; padding: 12px 22px; background: #4a90e2; color: white; text-decoration: none; border-radius: 10px; font-weight: 600;\" rel=\"noopener\"> Abrir en pantalla completa </a></p>\n</div>\n<p>Irene Cascales Fulgencio, CC BY-SA 4.0, elaboración propia</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nk-vct2leauw</odePageId>
+      <odeBlockId>20260505140044YEUCIB</odeBlockId>
+      <blockName>Una propuesta abierta a todo el alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nk-vct2leauw</odePageId>
+          <odeBlockId>20260505140044YEUCIB</odeBlockId>
+          <odeIdeviceId>20260505155732922QUJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Esta situación de aprendizaje ha sido diseñada desde una perspectiva inclusiva, contemplando diferentes ritmos, estilos y necesidades de aprendizaje.</p>
+<p>Se ofrecerán apoyos visuales, andamiajes, ejemplos guiados, agrupamientos flexibles y diferentes formas de participación para facilitar que todo el alumnado pueda avanzar desde su punto de partida.</p>
+<p>Del mismo modo, se favorecerá la expresión a través de distintos formatos (oral, escrito, visual y sonoro), permitiendo que todo el alumnado encuentre vías diversas para comunicar, crear y demostrar lo aprendido.</p>
+<p>La flexibilidad de las herramientas digitales empleadas facilitará también la personalización del aprendizaje y la adaptación de tareas cuando sea necesario.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505155732922QUJ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje ha sido diseñada desde una perspectiva inclusiva, contemplando diferentes ritmos, estilos y necesidades de aprendizaje.</p>\n<p>Se ofrecerán apoyos visuales, andamiajes, ejemplos guiados, agrupamientos flexibles y diferentes formas de participación para facilitar que todo el alumnado pueda avanzar desde su punto de partida.</p>\n<p>Del mismo modo, se favorecerá la expresión a través de distintos formatos (oral, escrito, visual y sonoro), permitiendo que todo el alumnado encuentre vías diversas para comunicar, crear y demostrar lo aprendido.</p>\n<p>La flexibilidad de las herramientas digitales empleadas facilitará también la personalización del aprendizaje y la adaptación de tareas cuando sea necesario.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moufg7nk-vct2leauw</odePageId>
+      <odeBlockId>20260505140044VSXGTW</odeBlockId>
+      <blockName>Vinculación curricular</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nk-vct2leauw</odePageId>
+          <odeBlockId>20260505140044VSXGTW</odeBlockId>
+          <odeIdeviceId>202605051559563564XC</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Este proyecto se vincula principalmente con la materia de Lengua Castellana y Literatura de 4º de ESO, ya que trabaja de forma directa la comprensión, interpretación y producción de textos orales, escritos y multimodales en contextos comunicativos reales.</p>
+<p>A través del análisis de noticias, la creación de textos periodísticos, la elaboración de artículos de opinión y la realización de entrevistas, el alumnado desarrolla competencias relacionadas con la comprensión crítica de la información, la expresión oral y escrita, la argumentación, la alfabetización mediática y el uso responsable de herramientas digitales.</p>
+<p>La propuesta permite trabajar especialmente la capacidad para localizar, seleccionar y contrastar información procedente de distintas fuentes, diferenciar hechos de opiniones, reconocer la intención comunicativa de los textos y producir mensajes propios adecuados a la situación comunicativa, al destinatario y al formato elegido.</p>
+<p>Además, el proyecto favorece el desarrollo de la competencia digital, la competencia ciudadana, la competencia personal, social y de aprender a aprender y la competencia en comunicación lingüística, al promover el trabajo cooperativo, la participación activa, el pensamiento crítico, la creatividad y la comunicación respetuosa.</p>
+<p>De este modo, la situación de aprendizaje se plantea desde un enfoque competencial, activo e inclusivo, conectando los aprendizajes curriculares con una realidad cercana al alumnado: la información que consume, comparte y produce cada día.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605051559563564XC","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto se vincula principalmente con la materia de Lengua Castellana y Literatura de 4º de ESO, ya que trabaja de forma directa la comprensión, interpretación y producción de textos orales, escritos y multimodales en contextos comunicativos reales.</p>\n<p>A través del análisis de noticias, la creación de textos periodísticos, la elaboración de artículos de opinión y la realización de entrevistas, el alumnado desarrolla competencias relacionadas con la comprensión crítica de la información, la expresión oral y escrita, la argumentación, la alfabetización mediática y el uso responsable de herramientas digitales.</p>\n<p>La propuesta permite trabajar especialmente la capacidad para localizar, seleccionar y contrastar información procedente de distintas fuentes, diferenciar hechos de opiniones, reconocer la intención comunicativa de los textos y producir mensajes propios adecuados a la situación comunicativa, al destinatario y al formato elegido.</p>\n<p>Además, el proyecto favorece el desarrollo de la competencia digital, la competencia ciudadana, la competencia personal, social y de aprender a aprender y la competencia en comunicación lingüística, al promover el trabajo cooperativo, la participación activa, el pensamiento crítico, la creatividad y la comunicación respetuosa.</p>\n<p>De este modo, la situación de aprendizaje se plantea desde un enfoque competencial, activo e inclusivo, conectando los aprendizajes curriculares con una realidad cercana al alumnado: la información que consume, comparte y produce cada día.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moufg7nl-g9y6tff9r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moufg7nl-g9y6tff9r</odePageId>
+      <odeBlockId>20260505140044ZHMSCJ</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moufg7nl-g9y6tff9r</odePageId>
+          <odeBlockId>20260505140044ZHMSCJ</odeBlockId>
+          <odeIdeviceId>202605051600297244F1</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Taller de periodismo escolar: comunicar, analizar y crear</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Recurso basado en metodologías activas que sitúa al alumnado en el papel de periodistas para investigar, redactar, contrastar fuentes y comunicar información de forma rigurosa. Se potencia la autonomía, la creatividad y la competencia digital mediante el uso de herramientas TIC aplicadas a la creación de contenidos.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Irene Cascales Fulgencio</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - non commercial - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
